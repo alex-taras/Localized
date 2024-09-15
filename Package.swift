@@ -24,7 +24,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/jpsim/Yams", from: "5.0.6")
+        .package(url: "https://github.com/jpsim/Yams", from: "4.0.6")
     ],
     targets: [
         .target(
